@@ -1,11 +1,11 @@
 Hey, hi! I’m Germano 👋
 
-👨‍💻 Computer Engineering student | Junior Software Developer
-💡 Passionate about technology, programming, and problem-solving
-🚀 Currently focused on JavaScript and Python, building real-world projects
-🛠️ Interests: Web Development, APIs, Software Engineering
-📚 I strongly believe that learning by building is the most effective way to grow
-🌍 My goal is to use technology to create impact and turn ideas into practical solutions
+👨‍💻 Computer Engineering student | Junior Software Developer<br>
+💡 Passionate about technology, programming, and problem-solving<br>
+🚀 Currently focused on JavaScript and Python, building real-world projects<br>
+🛠️ Interests: Web Development, APIs, Software Engineering<br>
+📚 I strongly believe that learning by building is the most effective way to grow<br>
+🌍 My goal is to use technology to create impact and turn ideas into practical solutions<br>
 
 # 💻 Tech Stack:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
