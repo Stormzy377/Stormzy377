@@ -1,15 +1,15 @@
-## Hey Hi! i'm Germano
+Hey, hi! I’m Germano 👋
 
-👨‍💻 Estudante de TI | Futuro Desenvolvedor Fullstack <br>
-💡 Apaixonado por tecnologia, programação e inovação <br>
-🚀 Atualmente aprendendo React e Node.js <br>
-🛠️ Interesses: Desenvolvimento Web, Mobile, Startups <br>
-📚 Acredito que a prática e os projetos reais são o melhor caminho para evoluir <br>
-🌍 Quero usar a tecnologia para impactar pessoas e transformar ideias em realidade
-
+👨‍💻 Computer Engineering student | Junior Software Developer
+💡 Passionate about technology, programming, and problem-solving
+🚀 Currently focused on JavaScript and Python, building real-world projects
+🛠️ Interests: Web Development, APIs, Software Engineering
+📚 I strongly believe that learning by building is the most effective way to grow
+🌍 My goal is to use technology to create impact and turn ideas into practical solutions
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Stormzy377&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Stormzy377&theme=dark&hide_border=false)<br/>
